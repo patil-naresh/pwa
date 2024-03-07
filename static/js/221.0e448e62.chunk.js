@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpwa_react_typescript=self.webpackChunkpwa_react_typescript||[]).push([[221],{221:(e,c,t)=>{t.r(c),t.d(c,{default:()=>l});var s=t(43),a=t(579);const l=()=>(s.useEffect((()=>{}),[]),(0,a.jsx)("div",{className:"h-100 w-100 d-inline-block",children:(0,a.jsx)("h1",{className:"d-flex justify-content-center align-items-center",children:"Welcome to your PWA!"})}))}}]);
+//# sourceMappingURL=221.0e448e62.chunk.js.map
